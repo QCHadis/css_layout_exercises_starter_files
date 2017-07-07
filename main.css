@@ -8,32 +8,29 @@ main{
 	border: 1px black solid;
 }
 
-.topbox{
-	display: inline-block;
+.box1{
 	width: 50%;
 	height: 200px;
-	border: 1px black solid;
-}
-.box1{
 	background-color: green;
 }
 .box2{
+	width: 50%;
+	height: 200px;
 	background-color: blue;
 }
-
-.bbox{
+.box3{
 	width: 33.33%;
 	height: 300px;
-	display: inline-block;
-	border: 1px black solid;
-}
-.box3{
 	background-color: grey;
 }
 .box4{
+	width: 33.33%;
+	height: 300px;
 	background-color: black;
 }
 .box5{
+	width: 33.33%;
+	height: 300px;
 	background-color: orange;
 }
 

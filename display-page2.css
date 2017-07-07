@@ -6,13 +6,14 @@ main{
 	width: 800px;
 	height: 500px;
 	border: 1px black solid;
+	display: flex;
+	flex-flow: row wrap;
 }
 
 .topbox{
-	display: inline-block;
+	
 	width: 50%;
 	height: 200px;
-	border: 1px black solid;
 }
 .box1{
 	background-color: green;
@@ -24,8 +25,7 @@ main{
 .bbox{
 	width: 33.33%;
 	height: 300px;
-	display: inline-block;
-	border: 1px black solid;
+	
 }
 .box3{
 	background-color: grey;
